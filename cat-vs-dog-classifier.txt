@@ -1,0 +1,5 @@
+cats-vs-dogs-classifier/
+├── cats_vs_dogs.ipynb       ← Your Jupyter Notebook with code
+├── README.md                ← Project explanation (optional but recommended)
+├── requirements.txt         ← (Optional: contains dependencies like tensorflow)
+└── (NO need to upload the dataset itself)
